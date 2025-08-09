@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Galería de Arte</title>
+  <link rel="stylesheet" href="estilos.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+</head>
+<body>
+
+<header>
+  <div class="logo-nombre">
+    <img src="logo.png" alt="Logo de la galería" class="logo">
+    <div class="encabezado">VICJR STUDIOS</div>
+  </div>
+
+  <nav>
+    <a href="#inicio">Inicio</a>
+    <a href="#galeria">Galería</a>
+    <a href="#contacto">Contacto</a>
+  </nav>
+</header>
+
+
+  <section class="INICIO" id="inicio">
+    <h1>Bienvenidos a mi Galería</h1>
+    <p>Una colección visual que habla por sí sola.</p>
+  </section>
+
+
+  <section class="gallery" id="galeria">
+    <h2>OBRAS FÍSICAS</h2>
+    <div class="carrete">
+      <img src="f011.jpg" alt="Obra 1">
+      <img src="f014.jpg" alt="Obra 2">
+      <img src="f016.jpg" alt="Obra 3">
+      <img src="f007.jpg" alt="Obra 4">
+      <img src="f009.jpg" alt="Obra 5">
+      <img src="f012.jpg" alt="Obra 6">
+      <img src="f013.jpg" alt="Obra 7">
+      <img src="f015.jpg" alt="Obra 8">
+      <img src="f010.jpg" alt="Obra 9">
+      <img src="f008.jpg" alt="Obra 10">
+      <img src="f006.jpg" alt="Obra 11">
+      <img src="f001.jpg" alt="Obra 12">
+      <img src="f002.jpg" alt="Obra 13">
+      <img src="f003.jpg" alt="Obra 14">
+      <img src="f004.jpg" alt="Obra 15">
+      <img src="f005.jpg" alt="Obra 16">
+    </div>
+
+    <h2>OBRAS DIGITALES </h2>
+    <div class="carrete">
+      <img src="d001.jpg" alt="Obra 17">
+      <img src="d002.jpg" alt="Obra 18">
+      <img src="d0021.jpg" alt="Obra 19">
+      <img src="d003.png" alt="Obra 20">
+      <img src="d0031.png" alt="Obra 21">
+      <img src="d004.png" alt="Obra 22">
+      <img src="d0041.jpg" alt="Obra 23">
+      <img src="d005.png" alt="Obra 24">
+      <img src="d006.jpg" alt="Obra 25">
+      <img src="d007.png" alt="Obra 26">
+      <img src="d008.jpg" alt="Obra 27">
+      <img src="d009.png" alt="Obra 28">
+      <img src="d010.jpg" alt="Obra 29">
+      <img src="d011.png" alt="Obra 30">
+      <img src="d012.jpg" alt="Obra 31">
+      <img src="d013.jpg" alt="Obra 32">
+            
+    </div>
+
+    <h2>DISEÑOS WR3D</h2>
+    <div class="carrete">
+      <img src="W003.jpg" alt="Obra 33">
+      <img src="W001.jpg" alt="Obra 34">
+      <img src="W002.jpg" alt="Obra 35">
+      <img src="W018.jpg" alt="Obra 36">
+      <img src="W004.jpg" alt="Obra 37">
+      <img src="W005.jpg" alt="Obra 38">
+      <img src="W006.jpg" alt="Obra 39">
+      <img src="W007.jpg" alt="Obra 40">
+      <img src="W008.jpg" alt="Obra 41">
+      <img src="W009.jpg" alt="Obra 42">
+      <img src="W010.jpg" alt="Obra 43">
+      <img src="W011.jpg" alt="Obra 44">
+      <img src="W012.jpg" alt="Obra 45">
+      <img src="W013.jpg" alt="Obra 46">
+      <img src="W014.jpg" alt="Obra 47">
+      <img src="W015.jpg" alt="Obra 48">
+      <img src="W016.jpg" alt="Obra 49">
+      <img src="W017.jpg" alt="Obra 50">
+    </div>
+  </section>
+
+<footer class="footer" id="contacto">
+  <p>
+    <i class="fas fa-envelope"></i>
+    <a href="mailto:victorabregoonof@gmail.com" target="_blank" rel="noopener noreferrer">
+      victorabregoonof@gmail.com
+    </a>
+  </p>
+  <p>
+    <i class="fab fa-instagram"></i>
+    <a href="https://www.instagram.com/vic_alx444?igsh=MWVja2dsZG00Mm9pdw==" target="_blank" rel="noopener noreferrer">
+      @vic_alx444
+    </a>
+  </p>
+  <p>
+    <i class="fab fa-facebook"></i>
+    <a href="https://www.facebook.com/VicjrWR3D" target="_blank" rel="noopener noreferrer">
+      @VIC JR WR3D
+    </a>
+  </p>
+</footer>
+
+
+
+
+</body>
+</html>
